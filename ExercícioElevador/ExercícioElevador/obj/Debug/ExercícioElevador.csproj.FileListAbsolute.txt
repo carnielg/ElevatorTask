@@ -1,0 +1,7 @@
+C:\Users\guilherme.carniel\source\repos\ExercícioElevador\ExercícioElevador\obj\Debug\ExercícioElevador.csproj.AssemblyReference.cache
+C:\Users\guilherme.carniel\source\repos\ExercícioElevador\ExercícioElevador\obj\Debug\ExercícioElevador.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.carniel\source\repos\ExercícioElevador\ExercícioElevador\bin\Debug\ExercícioElevador.exe.config
+C:\Users\guilherme.carniel\source\repos\ExercícioElevador\ExercícioElevador\bin\Debug\ExercícioElevador.exe
+C:\Users\guilherme.carniel\source\repos\ExercícioElevador\ExercícioElevador\bin\Debug\ExercícioElevador.pdb
+C:\Users\guilherme.carniel\source\repos\ExercícioElevador\ExercícioElevador\obj\Debug\ExercícioElevador.exe
+C:\Users\guilherme.carniel\source\repos\ExercícioElevador\ExercícioElevador\obj\Debug\ExercícioElevador.pdb
